@@ -32,8 +32,8 @@ string file for the first argument. As an example, let's say you divided the com
 will then look like this:
 
 <pre>
-<part filename="chapter_1.txt">
-<part filename="chapter_2.txt">
+\<part filename="chapter_1.txt">
+\<part filename="chapter_2.txt">
 <part filename="chapter_3.txt">
 <part filename="chapter_4.txt">
 ...
