@@ -5,10 +5,10 @@ TODO:
 Add bin archive support
 
 usage:
+
 	fvp -d input.hcb output.txt
 	fvp -split strings.txt
 	fvp -c [-ww charlimit] strings.txt script.txt output.hcb
-	
 	fvp -decode input [output]
 	fvp -encode input [output]
 
