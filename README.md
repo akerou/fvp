@@ -19,7 +19,7 @@ Use mode "-d" to dump the opcodes for the given hcb file and dump strings to sep
 Use mode "-split" to split up the string file into parts. Parts need to be manually declared in the following fashion:
 
 <pre>
-<part name="Shinku Route" filename="shinku_route.txt">
+\<part name="Shinku Route" filename="shinku_route.txt"\>
 ...
 Strings
 ...
