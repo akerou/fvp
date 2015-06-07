@@ -76,9 +76,9 @@ the text for the game's titlebar.
 
 -----------
 
-authors:
-binaryfail - Most of the code related to dumping and rebuilding hcb files
-akerou - Rest
+authors: <br>
+binaryfail - Most of the code related to dumping and rebuilding hcb files <br>
+akerou - Rest <br>
 
 -----------
 
