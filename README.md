@@ -18,12 +18,11 @@ Use mode "-d" to dump the opcodes for the given hcb file and dump strings to sep
 
 Use mode "-split" to split up the string file into parts. Parts need to be manually declared in the following fashion:
 
-\<part name="Shinku Route" filename="shinku_route.txt"\>
-
-...
-Strings
-...
-</part>
+\<part name="Shinku Route" filename="shinku_route.txt"\> <br>
+... <br>
+Strings <br>
+... <br>
+\</part\>
 
 Use mode "-c" to rebuild a new hcb file from string file and byte code file. If you split up your string script
 into different parts and/or used the aforementioned split mechanism, you can use a build script instead of the full
