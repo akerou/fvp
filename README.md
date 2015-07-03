@@ -24,9 +24,9 @@ Strings <br>
 ... <br>
 \</part\>
 
-Use mode "-c" to rebuild a new hcb file from string file and byte code file. If you split up your string script
+Use mode "-c" to rebuild a new hcb file from the string file and the byte code file. If you split up your string script
 into different parts and/or used the aforementioned split mechanism, you can use a build script instead of the full
-string file for the first argument. As an example, let's say you divided the common route into chapters. A build script
+string file for the first argument. As an example, let's say you've divided the common route into chapters. A build script
 will then look like this:
 
 \<part filename="chapter_1.txt"\> <br>
